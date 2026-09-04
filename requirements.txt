@@ -1,0 +1,5 @@
+python-telegram-bot==21.10
+pymongo
+python-dotenv
+qrcode[pil]
+dnspython
